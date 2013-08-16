@@ -12,6 +12,7 @@ if __name__ == '__main__':
     license='MIT',
     author='Mark Steve Samson',
     author_email='hello@marksteve.com',
+    url='https://github.com/marksteve/flaskinit',
     packages=['flaskinit'],
     install_requires=open('requirements.txt').readlines(),
     entry_points=dict(console_scripts=['flaskinit = flaskinit:main']),
