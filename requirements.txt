@@ -1,0 +1,2 @@
+python-fu
+Jinja2

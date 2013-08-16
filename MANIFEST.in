@@ -1,0 +1,2 @@
+include README.rst requirements.txt
+recursive-include flaskinit/templates *
