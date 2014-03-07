@@ -1,5 +1,8 @@
 flaskinit
 =========
+
+.. image:: http://img.shields.io/pypi/v/flaskinit.png
+
 Bootstraps Flask projects
 
 Install
